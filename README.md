@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haneul26&show_icons=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyeon207&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://img.shields.io/badge/c-#00599C?style=flat&logo=c&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/c++-#033963?style=flat&logo=c++&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/instructure-#2A7BA0?style=flat&logo=instructure&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
